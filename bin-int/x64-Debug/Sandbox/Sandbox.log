@@ -1,0 +1,9 @@
+﻿  SandboxApp.cpp
+c:\dev\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1154): warning C4307: “*”: 整型常量溢出
+c:\dev\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1186): warning C4307: “*”: 整型常量溢出
+c:\dev\hazel\hazel\vendor\spdlog\include\spdlog\fmt\bundled\format-inl.h(1207): warning C4307: “*”: 整型常量溢出
+c:\dev\hazel\hazel\log.h(16): warning C4251: “Hazel::Log::s_CoreLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“Hazel::Log”的客户端使用
+  c:\dev\hazel\hazel\vendor\spdlog\include\spdlog\details\registry.h(34): note: 参见“std::shared_ptr<spdlog::logger>”的声明
+c:\dev\hazel\hazel\log.h(17): warning C4251: “Hazel::Log::s_ClientLogger”: class“std::shared_ptr<spdlog::logger>”需要有 dll 接口由 class“Hazel::Log”的客户端使用
+  c:\dev\hazel\hazel\vendor\spdlog\include\spdlog\details\registry.h(34): note: 参见“std::shared_ptr<spdlog::logger>”的声明
+  Sandbox.vcxproj -> C:\dev\Hazel\bin\x64-Debug\Sandbox\Sandbox.exe
